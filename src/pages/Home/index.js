@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { FiPhoneCall, FiChevronUp, FiChevronDown } from 'react-icons/fi';
+import { FiPhoneCall} from 'react-icons/fi';
 import { Container, Content, Background, Plano } from './styles';
 
 
